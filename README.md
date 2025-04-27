@@ -6,8 +6,8 @@
 - 🎯 Interested in Data Science, Full Stack Web Development, and Cloud Technologies.
 - 🌱 Currently learning advanced Data Analytics, Backend Development, and Deployment.
 - 🛠️ Hands-on experience:
-  - Data Analyst Intern at **Smart Internz** (Tableau dashboards for traffic analysis)
-  - Data OptiPricing Intern at **Infosys Springboard** (Built intelligent pricing optimization using Streamlit and analytics)
+-  Data OptiPricing Intern at **Infosys Springboard** (Built intelligent pricing optimization using Streamlit and analytics)
+- Data Analyst Intern at **Smart Internz** (Tableau dashboards for traffic analysis)
 - 📊 Skilled in Python, Streamlit, SQL, Tableau and Web Development .
 - 📫 Reach me:www.linkedin.com/in/raghavendra-kumar-padharla | raghavendrapadharla@gmail.com
 
