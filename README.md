@@ -9,7 +9,7 @@
   - Data Analyst Intern at **Smart Internz** (Tableau dashboards for traffic analysis)
   - Data OptiPricing Intern at **Infosys Springboard** (Built intelligent pricing optimization using Streamlit and analytics)
 - 📊 Skilled in Python, Streamlit, SQL, Tableau and Web Development .
-- 📫 Reach me: [LinkedIn](www.linkedin.com/in/raghavendra-kumar-padharla) | [Email](mailto:raghavendrapadharla@gmail.com)
+- 📫 Reach me: [LinkedIn] www.linkedin.com/in/raghavendra-kumar-padharla | mailto:raghavendrapadharla@gmail.com
 
 ## ✨ Fun Facts
 - ⚡ I love turning complex data into simple, meaningful insights.
