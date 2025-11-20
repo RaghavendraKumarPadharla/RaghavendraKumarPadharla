@@ -4,7 +4,7 @@
 
 ## 👨‍💻 About Me
 - 🎯 Interested in Data Science, Full Stack Web Development, and Cloud Technologies.
-- 🌱 Currently learning advanced Data Analytics, Backend Development, and Deployment.
+- 🌱 Currently learning Full Stack Web Development.
 - 🛠️ Hands-on experience:
 -  Data OptiPricing Intern at **Infosys Springboard** (Built intelligent pricing optimization using Streamlit and analytics)
 - Data Analyst Intern at **Smart Internz** (Tableau dashboards for traffic analysis)
